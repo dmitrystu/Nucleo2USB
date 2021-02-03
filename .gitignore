@@ -1,4 +1,4 @@
+*gerber*
 *.kicad_pcb-bak
 *.sch-bak
-*cache.lib
 fp-info-cache
